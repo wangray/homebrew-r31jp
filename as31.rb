@@ -5,6 +5,6 @@ class As31 < Formula
     homepage 'http://davidyamnitsky.com/'
     def install
         system "make"
-        system "make install"
+        bin.install('as31')
     end
 end
