@@ -4,8 +4,8 @@ homebrew-r31jp
 
 1. Install drivers for your serial-to-usb connector
 
-My lab kit came with a sabrent connector, so I used the driver at 
-https://www.sabrent.com/downloads/
+My lab kit came with a sabrent connector, so I used the `CB-RS232` driver at 
+https://www.sabrent.com/downloads/. 
 
 2. 
 Run
