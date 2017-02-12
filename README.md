@@ -1,6 +1,7 @@
 homebrew-r31jp
 ==============
 
+Go to nitsky's [original repo](https://github.com/nitsky/r31jp) for the latest version. 
 
 1. Install drivers for your serial-to-usb connector
 
